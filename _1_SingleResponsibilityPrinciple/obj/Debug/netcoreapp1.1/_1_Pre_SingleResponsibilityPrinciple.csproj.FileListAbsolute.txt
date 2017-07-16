@@ -1,0 +1,9 @@
+C:\Users\armand\Documents\visual studio 2017\Projects\_1_SingleResponsibilityPrinciple\_1_SingleResponsibilityPrinciple\bin\Debug\netcoreapp1.1\_1_Pre_SingleResponsibilityPrinciple.deps.json
+C:\Users\armand\Documents\visual studio 2017\Projects\_1_SingleResponsibilityPrinciple\_1_SingleResponsibilityPrinciple\bin\Debug\netcoreapp1.1\_1_Pre_SingleResponsibilityPrinciple.runtimeconfig.json
+C:\Users\armand\Documents\visual studio 2017\Projects\_1_SingleResponsibilityPrinciple\_1_SingleResponsibilityPrinciple\bin\Debug\netcoreapp1.1\_1_Pre_SingleResponsibilityPrinciple.runtimeconfig.dev.json
+C:\Users\armand\Documents\visual studio 2017\Projects\_1_SingleResponsibilityPrinciple\_1_SingleResponsibilityPrinciple\bin\Debug\netcoreapp1.1\_1_Pre_SingleResponsibilityPrinciple.dll
+C:\Users\armand\Documents\visual studio 2017\Projects\_1_SingleResponsibilityPrinciple\_1_SingleResponsibilityPrinciple\bin\Debug\netcoreapp1.1\_1_Pre_SingleResponsibilityPrinciple.pdb
+C:\Users\armand\Documents\visual studio 2017\Projects\_1_SingleResponsibilityPrinciple\_1_SingleResponsibilityPrinciple\obj\Debug\netcoreapp1.1\_1_Pre_SingleResponsibilityPrinciple.csprojResolveAssemblyReference.cache
+C:\Users\armand\Documents\visual studio 2017\Projects\_1_SingleResponsibilityPrinciple\_1_SingleResponsibilityPrinciple\obj\Debug\netcoreapp1.1\_1_Pre_SingleResponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\armand\Documents\visual studio 2017\Projects\_1_SingleResponsibilityPrinciple\_1_SingleResponsibilityPrinciple\obj\Debug\netcoreapp1.1\_1_Pre_SingleResponsibilityPrinciple.dll
+C:\Users\armand\Documents\visual studio 2017\Projects\_1_SingleResponsibilityPrinciple\_1_SingleResponsibilityPrinciple\obj\Debug\netcoreapp1.1\_1_Pre_SingleResponsibilityPrinciple.pdb

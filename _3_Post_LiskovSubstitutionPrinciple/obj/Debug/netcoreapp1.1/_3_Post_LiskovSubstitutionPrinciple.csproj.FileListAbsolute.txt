@@ -1,0 +1,9 @@
+C:\Users\armand\Documents\Visual Studio 2017\Projects\_1_SingleResponsibilityPrinciple\_3_Post_LiskovSubstitutionPrinciple\bin\Debug\netcoreapp1.1\_3_Post_LiskovSubstitutionPrinciple.deps.json
+C:\Users\armand\Documents\Visual Studio 2017\Projects\_1_SingleResponsibilityPrinciple\_3_Post_LiskovSubstitutionPrinciple\bin\Debug\netcoreapp1.1\_3_Post_LiskovSubstitutionPrinciple.runtimeconfig.json
+C:\Users\armand\Documents\Visual Studio 2017\Projects\_1_SingleResponsibilityPrinciple\_3_Post_LiskovSubstitutionPrinciple\bin\Debug\netcoreapp1.1\_3_Post_LiskovSubstitutionPrinciple.runtimeconfig.dev.json
+C:\Users\armand\Documents\Visual Studio 2017\Projects\_1_SingleResponsibilityPrinciple\_3_Post_LiskovSubstitutionPrinciple\bin\Debug\netcoreapp1.1\_3_Post_LiskovSubstitutionPrinciple.dll
+C:\Users\armand\Documents\Visual Studio 2017\Projects\_1_SingleResponsibilityPrinciple\_3_Post_LiskovSubstitutionPrinciple\bin\Debug\netcoreapp1.1\_3_Post_LiskovSubstitutionPrinciple.pdb
+C:\Users\armand\Documents\Visual Studio 2017\Projects\_1_SingleResponsibilityPrinciple\_3_Post_LiskovSubstitutionPrinciple\obj\Debug\netcoreapp1.1\_3_Post_LiskovSubstitutionPrinciple.csprojResolveAssemblyReference.cache
+C:\Users\armand\Documents\Visual Studio 2017\Projects\_1_SingleResponsibilityPrinciple\_3_Post_LiskovSubstitutionPrinciple\obj\Debug\netcoreapp1.1\_3_Post_LiskovSubstitutionPrinciple.AssemblyInfo.cs
+C:\Users\armand\Documents\Visual Studio 2017\Projects\_1_SingleResponsibilityPrinciple\_3_Post_LiskovSubstitutionPrinciple\obj\Debug\netcoreapp1.1\_3_Post_LiskovSubstitutionPrinciple.dll
+C:\Users\armand\Documents\Visual Studio 2017\Projects\_1_SingleResponsibilityPrinciple\_3_Post_LiskovSubstitutionPrinciple\obj\Debug\netcoreapp1.1\_3_Post_LiskovSubstitutionPrinciple.pdb

@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_1_Pre_SingleResponsibilityPrinciple", "_1_SingleResponsibilityPrinciple\_1_Pre_SingleResponsibilityPrinciple.csproj", "{86A30B9B-194C-442F-BCA4-C6579CEFD583}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_1_Post_SingleResponsibilityPrinciple", "_1_Post_SingleResponsibilityPrinciple\_1_Post_SingleResponsibilityPrinciple.csproj", "{DC3530FB-2C30-4109-83E7-F1AF19DEAA8B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_2_Pre_OpenClosePrinciple", "_2_Pre_OpenClosePrinciple\_2_Pre_OpenClosePrinciple.csproj", "{6559BCB2-C316-4A40-952B-C1AB271B4395}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_2_Post_OpenClosePrinciple", "_2_Post_OpenClosePrinciple\_2_Post_OpenClosePrinciple.csproj", "{A8143430-D1EC-42BB-9B71-39AAEC2F549A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_3_Post_LiskovSubstitutionPrinciple", "_3_Post_LiskovSubstitutionPrinciple\_3_Post_LiskovSubstitutionPrinciple.csproj", "{8E504E67-D4EA-4CFF-844A-773CB12ED676}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_3_Pre_LiskovSubstitutionPrinciple", "_3_Pre_LiskovSubstitutionPrinciple\_3_Pre_LiskovSubstitutionPrinciple.csproj", "{5CB31048-1B07-4BD7-82FC-6154EB4F447B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_4_Post_InterfaceSegregationPrinciple", "_4_Post_InterfaceSegregationPrinciple\_4_Post_InterfaceSegregationPrinciple.csproj", "{CA8DE402-91FD-4FDF-85E6-B7AB1D4C10A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_4_Pre_InterfaceSegregationPrinciple", "_4_Pre_InterfaceSegregationPrinciple\_4_Pre_InterfaceSegregationPrinciple.csproj", "{4A1EEB0D-D5E1-4D1D-8B95-DE85ECF4FE87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_5_Pre_DependencyInversionPrinciple", "_5_Pre_DependencyInversionPrinciple\_5_Pre_DependencyInversionPrinciple.csproj", "{724DE760-890E-4CCD-B7D0-FA94D8415DE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_5_Post_DependencyInversionPrinciple", "_5_Post_DependencyInversionPrinciple\_5_Post_DependencyInversionPrinciple.csproj", "{A0208C61-258B-4C0E-8E05-DC1A3F5D646A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86A30B9B-194C-442F-BCA4-C6579CEFD583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A30B9B-194C-442F-BCA4-C6579CEFD583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A30B9B-194C-442F-BCA4-C6579CEFD583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A30B9B-194C-442F-BCA4-C6579CEFD583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC3530FB-2C30-4109-83E7-F1AF19DEAA8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3530FB-2C30-4109-83E7-F1AF19DEAA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3530FB-2C30-4109-83E7-F1AF19DEAA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3530FB-2C30-4109-83E7-F1AF19DEAA8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6559BCB2-C316-4A40-952B-C1AB271B4395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6559BCB2-C316-4A40-952B-C1AB271B4395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6559BCB2-C316-4A40-952B-C1AB271B4395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6559BCB2-C316-4A40-952B-C1AB271B4395}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8143430-D1EC-42BB-9B71-39AAEC2F549A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8143430-D1EC-42BB-9B71-39AAEC2F549A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8143430-D1EC-42BB-9B71-39AAEC2F549A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8143430-D1EC-42BB-9B71-39AAEC2F549A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E504E67-D4EA-4CFF-844A-773CB12ED676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E504E67-D4EA-4CFF-844A-773CB12ED676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E504E67-D4EA-4CFF-844A-773CB12ED676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E504E67-D4EA-4CFF-844A-773CB12ED676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CB31048-1B07-4BD7-82FC-6154EB4F447B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB31048-1B07-4BD7-82FC-6154EB4F447B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB31048-1B07-4BD7-82FC-6154EB4F447B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB31048-1B07-4BD7-82FC-6154EB4F447B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA8DE402-91FD-4FDF-85E6-B7AB1D4C10A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8DE402-91FD-4FDF-85E6-B7AB1D4C10A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8DE402-91FD-4FDF-85E6-B7AB1D4C10A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8DE402-91FD-4FDF-85E6-B7AB1D4C10A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A1EEB0D-D5E1-4D1D-8B95-DE85ECF4FE87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A1EEB0D-D5E1-4D1D-8B95-DE85ECF4FE87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A1EEB0D-D5E1-4D1D-8B95-DE85ECF4FE87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A1EEB0D-D5E1-4D1D-8B95-DE85ECF4FE87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{724DE760-890E-4CCD-B7D0-FA94D8415DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724DE760-890E-4CCD-B7D0-FA94D8415DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724DE760-890E-4CCD-B7D0-FA94D8415DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724DE760-890E-4CCD-B7D0-FA94D8415DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0208C61-258B-4C0E-8E05-DC1A3F5D646A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0208C61-258B-4C0E-8E05-DC1A3F5D646A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0208C61-258B-4C0E-8E05-DC1A3F5D646A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0208C61-258B-4C0E-8E05-DC1A3F5D646A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

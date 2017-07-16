@@ -1,0 +1,9 @@
+C:\Users\armand\Documents\Visual Studio 2017\Projects\_1_SingleResponsibilityPrinciple\_2_Post_OpenClosePrinciple\bin\Debug\netcoreapp1.1\_2_Post_OpenClosePrinciple.deps.json
+C:\Users\armand\Documents\Visual Studio 2017\Projects\_1_SingleResponsibilityPrinciple\_2_Post_OpenClosePrinciple\obj\Debug\netcoreapp1.1\_2_Post_OpenClosePrinciple.csprojResolveAssemblyReference.cache
+C:\Users\armand\Documents\Visual Studio 2017\Projects\_1_SingleResponsibilityPrinciple\_2_Post_OpenClosePrinciple\obj\Debug\netcoreapp1.1\_2_Post_OpenClosePrinciple.AssemblyInfo.cs
+C:\Users\armand\Documents\Visual Studio 2017\Projects\_1_SingleResponsibilityPrinciple\_2_Post_OpenClosePrinciple\bin\Debug\netcoreapp1.1\_2_Post_OpenClosePrinciple.dll
+C:\Users\armand\Documents\Visual Studio 2017\Projects\_1_SingleResponsibilityPrinciple\_2_Post_OpenClosePrinciple\bin\Debug\netcoreapp1.1\_2_Post_OpenClosePrinciple.pdb
+C:\Users\armand\Documents\Visual Studio 2017\Projects\_1_SingleResponsibilityPrinciple\_2_Post_OpenClosePrinciple\obj\Debug\netcoreapp1.1\_2_Post_OpenClosePrinciple.dll
+C:\Users\armand\Documents\Visual Studio 2017\Projects\_1_SingleResponsibilityPrinciple\_2_Post_OpenClosePrinciple\obj\Debug\netcoreapp1.1\_2_Post_OpenClosePrinciple.pdb
+C:\Users\armand\Documents\Visual Studio 2017\Projects\_1_SingleResponsibilityPrinciple\_2_Post_OpenClosePrinciple\bin\Debug\netcoreapp1.1\_2_Post_OpenClosePrinciple.runtimeconfig.json
+C:\Users\armand\Documents\Visual Studio 2017\Projects\_1_SingleResponsibilityPrinciple\_2_Post_OpenClosePrinciple\bin\Debug\netcoreapp1.1\_2_Post_OpenClosePrinciple.runtimeconfig.dev.json
