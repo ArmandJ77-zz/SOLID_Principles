@@ -10,7 +10,7 @@ The console application takes a brief look at:
   - Dependency Inversion
   - Do not repeat yourself principle
 
-#Audience 
+# Audience 
 If you are unfamiliar with C# or basic Object orientated principles then this may not be for you.
 
 # Requirements
