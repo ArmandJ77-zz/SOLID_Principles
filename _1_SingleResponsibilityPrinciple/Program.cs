@@ -28,11 +28,6 @@ namespace _1_Pre_SingleResponsibilityPrinciple
             var circleArea = (circle.Radius * circle.Radius) * Math.PI;
             Console.WriteLine($"The radius of a Circle is: {circleArea}");
 
-            Console.WriteLine("Calculate the Area of a circle by using the Diameter");
-            var circleWithNoRadius = new Circle() { Diameter = 10 };
-            var circleWithNoRadiusArea = (Math.PI / 4) * (circleWithNoRadius.Diameter * circleWithNoRadius.Diameter);
-            Console.WriteLine($"Result: {circleWithNoRadiusArea}");
-
         }
     }
 
