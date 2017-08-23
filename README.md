@@ -17,10 +17,3 @@ If you are unfamiliar with C# or basic Object orientated principles then this ma
 
   -  Visual Studio 2017 or later
   - .Net Core 1.1 or later
-
-### Installation
-
-Install [.Net Core](https://www.microsoft.com/net/core#windowsvs2017)
-OR
-Install [Visual Studio 2017](https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio) and select the .Net Core component upon installation
-
