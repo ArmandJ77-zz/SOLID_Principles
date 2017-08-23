@@ -6,8 +6,8 @@ namespace _1_Post_SingleResponsibilityPrinciple.Shapes
     {
         public double Width { get; set; }
 
-        public double CaluclateArea() => Width * Width;
+        public double CalculateArea() => Width * Width;
 
-        public void Log(string message) => Console.WriteLine(message);
+        public void Log() => Console.WriteLine($"Given a square width of {Width} when calculating the area by using Area = a * a then the result is {CalculateArea()}");
     }
 }

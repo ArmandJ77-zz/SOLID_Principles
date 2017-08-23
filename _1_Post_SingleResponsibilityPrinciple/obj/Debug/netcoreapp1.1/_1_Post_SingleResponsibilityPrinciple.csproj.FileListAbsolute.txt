@@ -7,3 +7,12 @@ c:\users\armand\documents\visual studio 2017\Projects\_1_SingleResponsibilityPri
 c:\users\armand\documents\visual studio 2017\Projects\_1_SingleResponsibilityPrinciple\_1_Post_SingleResponsibilityPrinciple\obj\Debug\netcoreapp1.1\_1_Post_SingleResponsibilityPrinciple.pdb
 c:\users\armand\documents\visual studio 2017\Projects\_1_SingleResponsibilityPrinciple\_1_Post_SingleResponsibilityPrinciple\bin\Debug\netcoreapp1.1\_1_Post_SingleResponsibilityPrinciple.runtimeconfig.json
 c:\users\armand\documents\visual studio 2017\Projects\_1_SingleResponsibilityPrinciple\_1_Post_SingleResponsibilityPrinciple\bin\Debug\netcoreapp1.1\_1_Post_SingleResponsibilityPrinciple.runtimeconfig.dev.json
+C:\Users\armand\Documents\Visual Studio 2017\Projects\SOLID_Principles\_1_Post_SingleResponsibilityPrinciple\bin\Debug\netcoreapp1.1\_1_Post_SingleResponsibilityPrinciple.deps.json
+C:\Users\armand\Documents\Visual Studio 2017\Projects\SOLID_Principles\_1_Post_SingleResponsibilityPrinciple\bin\Debug\netcoreapp1.1\_1_Post_SingleResponsibilityPrinciple.runtimeconfig.json
+C:\Users\armand\Documents\Visual Studio 2017\Projects\SOLID_Principles\_1_Post_SingleResponsibilityPrinciple\bin\Debug\netcoreapp1.1\_1_Post_SingleResponsibilityPrinciple.runtimeconfig.dev.json
+C:\Users\armand\Documents\Visual Studio 2017\Projects\SOLID_Principles\_1_Post_SingleResponsibilityPrinciple\bin\Debug\netcoreapp1.1\_1_Post_SingleResponsibilityPrinciple.dll
+C:\Users\armand\Documents\Visual Studio 2017\Projects\SOLID_Principles\_1_Post_SingleResponsibilityPrinciple\bin\Debug\netcoreapp1.1\_1_Post_SingleResponsibilityPrinciple.pdb
+C:\Users\armand\Documents\Visual Studio 2017\Projects\SOLID_Principles\_1_Post_SingleResponsibilityPrinciple\obj\Debug\netcoreapp1.1\_1_Post_SingleResponsibilityPrinciple.csprojResolveAssemblyReference.cache
+C:\Users\armand\Documents\Visual Studio 2017\Projects\SOLID_Principles\_1_Post_SingleResponsibilityPrinciple\obj\Debug\netcoreapp1.1\_1_Post_SingleResponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\armand\Documents\Visual Studio 2017\Projects\SOLID_Principles\_1_Post_SingleResponsibilityPrinciple\obj\Debug\netcoreapp1.1\_1_Post_SingleResponsibilityPrinciple.dll
+C:\Users\armand\Documents\Visual Studio 2017\Projects\SOLID_Principles\_1_Post_SingleResponsibilityPrinciple\obj\Debug\netcoreapp1.1\_1_Post_SingleResponsibilityPrinciple.pdb

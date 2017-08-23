@@ -9,8 +9,6 @@ namespace _1_Post_SingleResponsibilityPrinciple.Shapes
 
         public double CalculateAreaWithRadius() => (Radius * Radius) * Math.PI;
 
-        public double CalculateAreaWithDiameter() => (Math.PI / 4) * (Diameter * Diameter);
-
-        public void Log(string message) => Console.WriteLine(message);
+        public void Log() => Console.WriteLine($"Given a circle radius of {Radius} when calculating the area by using Area = (Radius * Radius) * PI then the result is {CalculateAreaWithRadius()}");
     }
 }
